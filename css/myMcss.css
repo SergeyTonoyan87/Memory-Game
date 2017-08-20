@@ -1,0 +1,11 @@
+#myDiv{
+	border: 1px solid #000;
+	width: 150px;
+	height: 150px;
+	text-align: center;
+	text-align-last: center;
+	display: flex;
+	justify-content: center; /* align horizontal */
+	align-items: center;
+	cursor: pointer;
+}
