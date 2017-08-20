@@ -1,2 +1,2 @@
 # Memory-Game
-this is simple memry game 
+this is simple memory game 
